@@ -1,0 +1,1 @@
+# clang-static-analyzer-checker-document
